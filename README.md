@@ -1,3 +1,14 @@
+# wvkbd-french
+
+This is a fork of [wvkbd](https://git.sr.ht/~proycon/wvkbd) with the french keyboard layout.
+
+It is based on the android layout and it replace the original full layout and the special layout.
+
+It was made for [sxmo](https://sxmo.org).
+
+
+
+
 # wvkbd - On-screen keyboard for wlroots that sucks less
 
 <img src="https://raw.githubusercontent.com/proycon/wvkbd/master/contrib/wvkbd-mobintl.jpg" width=300 /> <img src="https://raw.githubusercontent.com/proycon/wvkbd/master/contrib/wvkbd-mobintl-cyrillic.jpg" width=300 />
