@@ -266,7 +266,7 @@ static struct key keys_special[] = {
   {";",  "✓", 1.0, Copy, 0x003B, 0, 0x2713},
   {"!",  "[", 1.0, Copy, 0x0021, 0, 0x005B},
   {"?",  "]", 1.0, Copy, 0x003F, 0, 0x005D},
-  {"⌫",  "⌫", 1.0, Copy, KEY_BACKSPACE, .scheme = 1},
+  {"⌫", "⌫", 1.5, Code, KEY_BACKSPACE, .scheme = 1},
   {"", "", 0.0, EndRow},
 
   {"Abc", "Abc", 1.0, NextLayer, .scheme = 1},
